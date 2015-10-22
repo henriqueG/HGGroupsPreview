@@ -1,6 +1,10 @@
 # HGGroupsPreview
 iOS Home Screen Group icon generator
 
+#Requirements
+•iOS or Mac
+
+
 ![alt tag](https://github.com/henriqueG/HGGroupsPreview/blob/master/SS.png)
 
 
