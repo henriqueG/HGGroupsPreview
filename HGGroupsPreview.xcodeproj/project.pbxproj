@@ -13,6 +13,7 @@
 		B8812B581BD9048D00D643CA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B8812B561BD9048D00D643CA /* Main.storyboard */; };
 		B8812B5A1BD9048D00D643CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B8812B591BD9048D00D643CA /* Assets.xcassets */; };
 		B8812B5D1BD9048D00D643CA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B8812B5B1BD9048D00D643CA /* LaunchScreen.storyboard */; };
+		B8812B661BD9049300D643CA /* HGGroupsPreview.m in Sources */ = {isa = PBXBuildFile; fileRef = B8812B651BD9049300D643CA /* HGGroupsPreview.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		B8812B591BD9048D00D643CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B8812B5C1BD9048D00D643CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B8812B5E1BD9048D00D643CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B8812B641BD9049300D643CA /* HGGroupsPreview.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HGGroupsPreview.h; sourceTree = "<group>"; };
+		B8812B651BD9049300D643CA /* HGGroupsPreview.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HGGroupsPreview.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				B8812B511BD9048D00D643CA /* AppDelegate.m */,
 				B8812B531BD9048D00D643CA /* ViewController.h */,
 				B8812B541BD9048D00D643CA /* ViewController.m */,
+				B8812B641BD9049300D643CA /* HGGroupsPreview.h */,
+				B8812B651BD9049300D643CA /* HGGroupsPreview.m */,
 				B8812B561BD9048D00D643CA /* Main.storyboard */,
 				B8812B591BD9048D00D643CA /* Assets.xcassets */,
 				B8812B5B1BD9048D00D643CA /* LaunchScreen.storyboard */,
@@ -150,6 +155,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B8812B551BD9048D00D643CA /* ViewController.m in Sources */,
+				B8812B661BD9049300D643CA /* HGGroupsPreview.m in Sources */,
 				B8812B521BD9048D00D643CA /* AppDelegate.m in Sources */,
 				B8812B4F1BD9048D00D643CA /* main.m in Sources */,
 			);

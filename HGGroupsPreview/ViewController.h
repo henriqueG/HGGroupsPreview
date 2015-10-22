@@ -7,9 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "HGGroupsPreview.h"
 
-@interface ViewController : UIViewController
-
-
+@interface ViewController : UIViewController <HGGroupsPreviewDataSource>
+@property (nonatomic, weak) IBOutlet UIImageView *image;
 @end
 
