@@ -1,6 +1,9 @@
 # HGGroupsPreview
 iOS Home Screen Group icon generator
 
+![alt tag](https://github.com/henriqueG/HGGroupsPreview/blob/master/SS.png)
+
+
 #License
 HGGroupsPreview is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
